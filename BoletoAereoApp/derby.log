@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 01 22:14:25 BOT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0177-6085-0041-0000025d55b0 
+on database directory memory:C:\Users\Igor\Desktop\Prueba y mantenimiento\Labos\boletoAereoApp-master\BoletoAereoApp\testdb with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/C:/Users/Igor/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Users\Igor\Desktop\Prueba y mantenimiento\Labos\boletoAereoApp-master\BoletoAereoApp
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
